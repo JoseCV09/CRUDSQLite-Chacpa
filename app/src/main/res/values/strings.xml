@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CrudMvpSqlite</string>
+
+    <string name="nombreAlumno">Nombre</string>
+    <string name="correoAlumno">Correo</string>
+    <string name="codigoAlumno">Codigo</string>
+
+</resources>
